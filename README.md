@@ -2,7 +2,6 @@
 an unofficial apk of BluetoothLEspam that is legit and is isnt and virus.
 ## made so the FDroid store does not need to be downloaded,
 ### credit: Simon Dankelmann
-
 #### DISKLAIMER:
 I, the uploader, provide this APK file as‑is and without any guarantees. I am not responsible or liable for any harm, damage, data loss, security issues, or other consequences that may result from downloading, installing, or using this APK.
 
